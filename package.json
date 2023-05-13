@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bilalahmad3013/nodeAuthnetication.git"
+    "url": "git+https://github.com/Jyoti-Yadav-197925/NodeJsAuth.git"
   },
   "keywords": [],
   "author": "Jyoti Yadav",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bilalahmad3013/nodeAuthnetication"
+    "url": "https://github.com/Jyoti-Yadav-197925/NodeJsAuth.git"
   },
-  "homepage": "https://github.com/bilalahmad3013/nodeAuthnetication"
+  "homepage": "https://github.com/Jyoti-Yadav-197925/NodeJsAuth.git"
 }
