@@ -25,14 +25,12 @@
     "start": "node index.js"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/bilalahmad3013/nodeAuthnetication"
+    "type": "git"
   },
   "keywords": [],
   "author": "Manish jangir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bilalahmad3013/nodeAuthnetication"
   },
-  "homepage": "https://github.com/bilalahmad3013/nodeAuthnetication"
+  
 }
