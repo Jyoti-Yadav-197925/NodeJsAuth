@@ -15,7 +15,7 @@
     "passport": "^0.6.0",
     "passport-local": "^1.0.0"
   },
-  "name": "node-auth",
+  "name": "auth",
   "description": "Using Nodejs, ejs, MongoDB, and Passport",
   "version": "1.0.0",
   "main": "index.js",
@@ -26,10 +26,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bilalahmad3013/nodeAuthnetication"
+    "url": "git+https://github.com/bilalahmad3013/nodeAuthnetication.git"
   },
   "keywords": [],
-  "author": "Manish jangir",
+  "author": "Jyoti Yadav",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bilalahmad3013/nodeAuthnetication"
